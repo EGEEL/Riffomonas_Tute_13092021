@@ -1,0 +1,12 @@
+11:12:38	 From Melanie O'Donovan : is the scale 1-10?
+11:13:16	 From Dameon : was 1 to 8 for this study
+11:18:52	 From Ismail Asad : I might have missed this. What exactly is "Genetic Distance" mean?
+11:19:06	 From Ismail Asad : does*
+11:19:23	 From Dameon : just a measure of how genetically dissimilar the populations are
+11:19:41	 From Dameon : if the value is low, they are very similar
+11:19:48	 From Ismail Asad : Ah makes sense.
+11:21:53	 From Melanie O'Donovan : We are measuring geographic distance and we have been given genetic distance?
+11:22:03	 From Dameon : spot on
+11:24:19	 From Melanie O'Donovan : Do we measure from the corner of a square or the middle of the square?
+11:24:35	 From Melanie O'Donovan : thanks :)
+11:25:02	 From Dameon : remember the squares are just the number boxes, the water bodies are where the toads are 
